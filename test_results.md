@@ -12,17 +12,16 @@ TravelBuddy: Xin chào! Tôi rất vui được giúp bạn lên kế hoạch ch
 Bạn: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
 
 TravelBuddy đang suy nghĩ...
-Gọi tool: search_flights({'destination': 'Đà Năng', 'origin': 'Hà Nưi'})
 Gọi tool: search_flights({'destination': 'Đà Nẵng', 'origin': 'Hà Nội'})
 Trả lời trực tiếp
 
-TravelBuddy: Chuyến bay từ Hà Nội đi Đà Nẵng có các lựa chọn sau:
-- Lựa chọn 1: Vietnam Airlines - Khởi hành: 06:00 - Giá: 1,450,000₫ (economy)
-- Lựa chọn 2: Vietnam Airlines - Khởi hành: 14:00 - Giá: 2,800,000₫ (business)
-- Lựa chọn 3: VietJet Air - Khởi hành: 08:30 - Giá: 890,000₫ (economy)
-- Lựa chọn 4: Bamboo Airways - Khởi hành: 11:00 - Giá: 1,200,000₫ (economy)
+TravelBuddy: Dưới đây là 4 lựa chọn chuyến bay từ Hà Nội đến Đà Nẵng:
+1. Chuyến bay của Vietnam Airlines khởi hành vào lúc 06:00 với giá 1,450,000₫ (economy)
+2. Chuyến bay của Vietnam Airlines khởi hành vào lúc 14:00 với giá 2,800,000₫ (business)
+3. Chuyến bay của VietJet Air khởi hành vào lúc 08:30 với giá 890,000₫ (economy)
+4. Chuyến bay của Bamboo Airways khởi hành vào lúc 11:00 với giá 1,200,000₫ (economy)
 
-Để có thể tư vấn thêm về khách sạn và các hoạt động tại Đà Nẵng, bạn có thể cho tôi biết ngân sách dự kiến của bạn là bao nhiêu không?
+Giá rẻ nhất là 890,000₫ và giá cao nhất là 2,800,000₫.
 
 Bạn: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
 
